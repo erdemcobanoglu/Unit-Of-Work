@@ -1,0 +1,11 @@
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\hey\Documents\RedTeamPro\RedTeamTaskManagementProject\RedTeamTaskManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb

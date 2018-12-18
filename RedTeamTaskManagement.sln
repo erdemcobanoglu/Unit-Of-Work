@@ -1,0 +1,83 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Entities", "00-Entities", "{598870F7-730F-426C-8F8C-D8A5EB785DF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-DAL", "01-DAL", "{18C648B2-3FD3-4074-909B-10FF6F0019CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-BLL", "02-BLL", "{CE316A64-33B6-46DF-BCB9-D90305EAA912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-UI", "03-UI", "{C6ED78CF-4C92-4C72-A5F7-1EBB534B2D19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7B6D5E98-7864-4307-A947-3E6D27ADF0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{E41DA187-BB3B-4102-802B-694DCA33E258}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{2E59A8CA-972A-42CB-BB24-6F51FFDD0081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainForm", "MainForm\MainForm.csproj", "{9FEA7338-19B9-4D1C-99DF-ADA6CF009E04}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Picture", "Picture", "{E8E10146-1DB0-44FC-A497-C2CE5FC7D464}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\yunus\Desktop\Button-Back-1-32.png = ..\..\Users\yunus\Desktop\Button-Back-1-32.png
+		..\..\Users\yunus\Desktop\Button-Back-2-64.png = ..\..\Users\yunus\Desktop\Button-Back-2-64.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B6D5E98-7864-4307-A947-3E6D27ADF0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6D5E98-7864-4307-A947-3E6D27ADF0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6D5E98-7864-4307-A947-3E6D27ADF0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6D5E98-7864-4307-A947-3E6D27ADF0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41DA187-BB3B-4102-802B-694DCA33E258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41DA187-BB3B-4102-802B-694DCA33E258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41DA187-BB3B-4102-802B-694DCA33E258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41DA187-BB3B-4102-802B-694DCA33E258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E59A8CA-972A-42CB-BB24-6F51FFDD0081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E59A8CA-972A-42CB-BB24-6F51FFDD0081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E59A8CA-972A-42CB-BB24-6F51FFDD0081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E59A8CA-972A-42CB-BB24-6F51FFDD0081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEA7338-19B9-4D1C-99DF-ADA6CF009E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEA7338-19B9-4D1C-99DF-ADA6CF009E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEA7338-19B9-4D1C-99DF-ADA6CF009E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEA7338-19B9-4D1C-99DF-ADA6CF009E04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B6D5E98-7864-4307-A947-3E6D27ADF0D1} = {598870F7-730F-426C-8F8C-D8A5EB785DF1}
+		{E41DA187-BB3B-4102-802B-694DCA33E258} = {18C648B2-3FD3-4074-909B-10FF6F0019CB}
+		{2E59A8CA-972A-42CB-BB24-6F51FFDD0081} = {CE316A64-33B6-46DF-BCB9-D90305EAA912}
+		{9FEA7338-19B9-4D1C-99DF-ADA6CF009E04} = {C6ED78CF-4C92-4C72-A5F7-1EBB534B2D19}
+		{E8E10146-1DB0-44FC-A497-C2CE5FC7D464} = {C6ED78CF-4C92-4C72-A5F7-1EBB534B2D19}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://redteampro.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Entities\\Entities.csproj
+		SccProjectTopLevelParentUniqueName1 = RedTeamTaskManagement.sln
+		SccProjectName1 = Entities
+		SccLocalPath1 = Entities
+		SccProjectUniqueName2 = DataAccessLayer\\DataAccessLayer.csproj
+		SccProjectTopLevelParentUniqueName2 = RedTeamTaskManagement.sln
+		SccProjectName2 = DataAccessLayer
+		SccLocalPath2 = DataAccessLayer
+		SccProjectUniqueName3 = BusinessLayer\\BusinessLayer.csproj
+		SccProjectTopLevelParentUniqueName3 = RedTeamTaskManagement.sln
+		SccProjectName3 = BusinessLayer
+		SccLocalPath3 = BusinessLayer
+		SccProjectUniqueName4 = MainForm\\MainForm.csproj
+		SccProjectTopLevelParentUniqueName4 = RedTeamTaskManagement.sln
+		SccProjectName4 = MainForm
+		SccLocalPath4 = MainForm
+	EndGlobalSection
+EndGlobal
